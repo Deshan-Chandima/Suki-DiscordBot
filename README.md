@@ -65,7 +65,7 @@ python bot.py
 You should see:
 
 ```
-We are Ready to go in, <YourBotName>
+We are Ready to go in, Suki
 ```
 
 ---
